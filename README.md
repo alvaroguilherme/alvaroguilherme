@@ -1,7 +1,7 @@
 ### Opa, tudo bom? 👀
 
 - 📊 I’m currently working on Data Analysis
-- 🥋 I’m currently learning git and python
+- 🥋 I’m currently learning Git and Python
 - 🎭Pronouns: he/him
 
 <div align="center">
