@@ -1,4 +1,4 @@
-### Opa, tudo bom? 👀
+### Opa 👀
 
 - 📊 I’m currently working on Data Analysis
 - 🥋 I’m currently learning Git and Python
