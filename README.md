@@ -1,6 +1,6 @@
 ### Opa 👀
 
-- 📊 I’m currently working on Data Analysis
+- 📊 I’m currently working on Data Analysis, ML, and IA
 - 🥋 I’m currently learning Git and Python
 - 🎭Pronouns: he/him
 
