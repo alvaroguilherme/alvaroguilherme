@@ -1,7 +1,7 @@
 ### Opa 👀
 
-- 📊 I’m currently working on Data Analysis, ML, and IA
-- 🥋 I’m currently learning Git and Python
+- 📊 I’m currently working on Signal Processing and AI
+- 🥋 I’m currently learning Git and Matlab
 - 🎭Pronouns: he/him
 
 <div align="center">
